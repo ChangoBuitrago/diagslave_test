@@ -13,7 +13,7 @@ pipenv shell
 ```
 
 ```
-(`modbus_master`) > python test.py
+(modbus_master) > python test.py
 ```
 
 
